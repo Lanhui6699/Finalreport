@@ -1,0 +1,242 @@
+﻿[
+  {
+    "id": 1,
+    "firstName": "廖雲仙",
+    "title": "教授",
+    "department": "國文組",
+    "officePhone": "04-23924505",
+    "cellPhone": 2276,
+    "email": "ysl@ncut.edu.tw",
+    "picture": "Liao,Yu-hsien.jpg"
+  },
+  {
+    "id": 2,
+    "firstName": "徐華中",
+    "title": "教授",
+    "department": "國文組",
+    "officePhone": "04-23924505",
+    "cellPhone": 2271,
+    "email": "hsuhc@ncut.edu.tw",
+    "picture": "Hsu,Hwa-chung.jpg"
+  },
+  {
+    "id": 3,
+    "firstName": "劉淑爾",
+    "title": "教授",
+    "department": "國文組",
+    "officePhone": "04-23924505",
+    "cellPhone": 2272,
+    "email": "lse@ncut.edu.tw",
+    "picture": "Liu, Shu-ern.jpg"
+  },
+  {
+    "id": 4,
+    "firstName": "江亞玉",
+    "title": "助理教授",
+    "department": "國文組",
+    "officePhone": "04-23924505",
+    "cellPhone": 2275,
+    "email": "jyy@ncut.edu.tw",
+    "picture": "Jiang, Ya-yu.jpg"
+  },
+  {
+    "id": 5,
+    "firstName": "童宏民",
+    "title": "副教授",
+    "department": "國文組",
+    "officePhone": "04-23924505",
+    "cellPhone": 2251,
+    "email": "min@ncut.edu.tw",
+    "picture": "Tung, Hung-ming.jpg"
+  },
+  {
+    "id": 6,
+    "firstName": "廖育菁",
+    "title": "助理教授",
+    "department": "國文組",
+    "officePhone": "04-23924505",
+    "cellPhone": 2273,
+    "email": "jing@ncut.edu.tw",
+    "picture": "Liao,Yu-Jing.jpg"
+  },
+  {
+    "id": 7,
+    "firstName": "施盈佑",
+    "title": "助理教授",
+    "department": "國文組",
+    "officePhone": "04-23924505",
+    "cellPhone": 2270,
+    "email": "yingyo@ncut.edu.tw",
+    "picture": "Shih Ying-Yo.jpg"
+  },
+  {
+    "id": 8,
+    "firstName": "劉柏宏",
+    "title": "教授",
+    "department": "數學組",
+    "officePhone": "04-23924505",
+    "cellPhone": 2258,
+    "email": "liuph@ncut.edu.tw",
+    "picture": "Liu, Po-hung.jpg"
+  },
+  {
+    "id": 9,
+    "firstName": "林碧川",
+    "title": "教授",
+    "department": "數學組",
+    "officePhone": "04-23924505",
+    "cellPhone": 2254,
+    "email": "linpc@ncut.edu.tw",
+    "picture": "Lin, P. C.jpg"
+  },
+  {
+    "id": 10,
+    "firstName": "李念晨",
+    "title": "教授",
+    "department": "數學組",
+    "officePhone": "04-23924505",
+    "cellPhone": 2257,
+    "email": "nclee@ncut.edu.tw",
+    "picture": "Lee, Niann-chern.jpg"
+  },
+  {
+    "id": 11,
+    "firstName": "陳東賢",
+    "title": "副教授",
+    "department": "數學組",
+    "officePhone": "04-23924505",
+    "cellPhone": 2256,
+    "email": "chents@ncut.edu.tw",
+    "picture": "Chen, Tung-shyan.jpg"
+  },
+  {
+    "id": 12,
+    "firstName": "鍾炎東",
+    "title": "助理教授",
+    "department": "數學組",
+    "officePhone": "04-23924505",
+    "cellPhone": 2255,
+    "email": "Chung808@ncut.edu.tw",
+    "picture": "Chung, Yen-tung.jpg"
+  },
+  {
+    "id": 13,
+    "firstName": "洪國智",
+    "title": "副教授",
+    "department": "數學組",
+    "officePhone": "04-23924505",
+    "cellPhone": 2279,
+    "email": "kchung@ncut.edu.tw",
+    "picture": "Hung, Kuo-chih.jpg"
+  },
+  {
+    "id": 14,
+    "firstName": "胡志佳",
+    "title": "教授",
+    "department": "歷史組",
+    "officePhone": "04-23924505",
+    "cellPhone": 2281,
+    "email": "cchu@ncut.edu.tw",
+    "picture": "Hu, Chich-chia.jpg"
+  },
+  {
+    "id": 15,
+    "firstName": "蘇啟昌",
+    "title": "講師",
+    "department": "歷史組",
+    "officePhone": "04-23924505",
+    "cellPhone": 2266,
+    "email": "scc@ncut.edu.tw",
+    "picture": "Su,Chi-chang.jpg"
+  },
+  {
+    "id": 16,
+    "firstName": "沈新民",
+    "title": "講師",
+    "department": "歷史組",
+    "officePhone": "04-23924505",
+    "cellPhone": 2277,
+    "email": "shen@ncut.edu.tw",
+    "picture": "Shen,Shin-min.jpg"
+  },
+  {
+    "id": 17,
+    "firstName": "呂小燕",
+    "title": "講師",
+    "department": "歷史組",
+    "officePhone": "04-23924505",
+    "cellPhone": 2269,
+    "email": "Lu805@ncut.edu.tw",
+    "picture": "Lu,Hsiao-yen.jpg"
+  },
+  {
+    "id": 18,
+    "firstName": "唐屹軒",
+    "title": "助理教授",
+    "department": "歷史組",
+    "officePhone": "04-23924505",
+    "cellPhone": 2280,
+    "email": "tangyh@ncut.edu.tw",
+    "picture": "Tang, Yi-Hsuan.jpg"
+  },
+  {
+    "id": 19,
+    "firstName": "鄭志敏",
+    "title": "教授",
+    "department": "藝術組",
+    "officePhone": "04-23924505",
+    "cellPhone": 2688,
+    "email": "minnie@ncut.edu.tw",
+    "picture": "Cheng,Chih-min.jpg"
+  },
+  {
+    "id": 20,
+    "firstName": "倪玉珊",
+    "title": "副教授",
+    "department": "藝術組",
+    "officePhone": "04-23924505",
+    "cellPhone": 2264,
+    "email": "ysni@ncut.edu.tw",
+    "picture": "Ni,Yu-shan.jpg"
+  },
+  {
+    "id": 21,
+    "firstName": "謝攸青",
+    "title": "副教授",
+    "department": "藝術組",
+    "officePhone": "04-23924505",
+    "cellPhone": 2267,
+    "email": "gpatr@ncut.edu.tw",
+    "picture": "Hsieh,Yu-ching.jpg"
+  },
+  {
+    "id": 22,
+    "firstName": "劉淑如",
+    "title": "副教授",
+    "department": "藝術組",
+    "officePhone": "04-23924505",
+    "cellPhone": 2262,
+    "email": "tina@ncut.edu.tw",
+    "picture": "Liu,Shu-ju.jpg"
+  },
+  {
+    "id": 23,
+    "firstName": "周宗憲",
+    "title": "副教授",
+    "department": "法政組",
+    "officePhone": "04-23924505",
+    "cellPhone": 2285,
+    "email": "hid@ncut.edu.tw",
+    "picture": "Chou, Tsung-hsein.jpg"
+  },
+  {
+    "id": 24,
+    "firstName": "鄭明政",
+    "title": "助理教授",
+    "department": "法政組",
+    "officePhone": "04-23924505",
+    "cellPhone": 2260,
+    "email": "cheng@ncut.edu.tw",
+    "picture": "Cheng, Ming-cheng.jpg"
+  }
+]
